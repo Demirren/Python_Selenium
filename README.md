@@ -1,5 +1,5 @@
 # Python_Selenium
-We can automate some processes with selenium in Python.
+You can automate some processes with selenium in Python.
 
 
 First make sure you have already installed pip. If not:
